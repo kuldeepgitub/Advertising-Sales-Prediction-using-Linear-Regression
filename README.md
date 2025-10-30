@@ -91,5 +91,3 @@ Deploy the model using Streamlit or Flask for web-based prediction.
 🧑‍💻 Author
 
 Kuldeep Vishwakarma
-MBA in IT/Finance
-E-mail: kuldeepvishwakarmainfo@gmail.com
